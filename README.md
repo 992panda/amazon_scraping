@@ -16,6 +16,8 @@ Usage:
     Database Integration (Optional):
         Connect the script to a MySQL database to directly store scraped data.
 
+google collab link: https://colab.research.google.com/drive/1G2Ps-RuLV3oChm0n6vrRUNsZi-zQmhHz?usp=sharing
+
 Bonus Task: Captcha Solver:
 
 The Bonus Task involves solving Amazon's CAPTCHA challenge. The approach includes mimicking the GET request sent to the server. The solution utilizes the Pillow library for image processing and an Amazon CAPTCHA solver to decode the CAPTCHA image.
@@ -36,10 +38,6 @@ Process:
     Challenges Faced:
         The challenge included dealing with changing tokens in the GET request, making the solution tricky to implement.
 
-How to Run the Code:
-
-The provided Google Colab link allows you to explore and execute the CAPTCHA solving approach interactively.
-Notes:
 
     Libraries Used:
         Beautiful Soup for HTML parsing.
