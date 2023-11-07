@@ -16,7 +16,7 @@ Usage:
     Database Integration (Optional):
         Connect the script to a MySQL database to directly store scraped data.
 
-google collab link: https://colab.research.google.com/drive/1G2Ps-RuLV3oChm0n6vrRUNsZi-zQmhHz?usp=sharing
+
 
 Bonus Task: Captcha Solver:
 
